@@ -1,0 +1,21 @@
+.menu{
+    background:cornflowerblue;
+    height: 100px;
+    width: 100%;
+    }
+
+.menu ul{
+   float: left;
+   margin-right: 5px;
+      }
+
+.menu ul li{
+   display: inline-block;
+   line-height: 80px;
+   margin: 0 40px;
+}
+
+.btn{
+   
+   background-color: cornflowerblue;
+}
